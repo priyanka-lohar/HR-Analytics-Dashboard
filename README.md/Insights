@@ -1,0 +1,78 @@
+1.  Dashboard Preview
+
+[Dashboard Preview](HR Analytics Dashboard.jpg)
+---
+
+>> Key Insights & Business Learnings
+--> Workforce Overview
+  - "Total Employees": 398
+  - "Active Employees": 340
+  - "Attrition": 58 (15%)
+  - "Average Age": 39 years
+
+>  A stable workforce with a moderate attrition rate — needs analysis of root causes.
+
+---
+
+2. Department-Wise Attrition
+- "HR (55%)", "Sales (40%)", "R&D (5%)"
+
+> HR and Sales require immediate attention for improving employee engagement.
+
+---
+
+3. Age Band Distribution
+- Majority of employees are aged "35–44", followed by "25–34"
+- Least representation under 25 and over 55
+
+> Indicates a mid-career dominated workforce. Focus needed on onboarding young talent and succession for senior staff.
+
+---
+
+4. Education Field-Wise Attrition
+- "Life Sciences": 25 attritions
+- "Medical": 13, "Marketing": 9, "Technical": 4
+
+> Certain educational backgrounds have higher attrition, potentially due to misaligned roles or expectations.
+
+---
+
+5. Gender-Based Attrition
+- In all age groups, "female attrition is higher" than male.
+  - 25–34: Female 74%
+  - 35–44: Female 69%
+
+> 🚨 Gender-specific HR policies and support mechanisms need to be evaluated.
+
+---
+
+6. Job Satisfaction Insights
+- Highest satisfaction in "Sales Executive" and "Research Scientist" roles.
+- Lower scores in "HR" and "Healthcare Representative" roles.
+
+> Use successful role frameworks to enhance satisfaction across other roles.
+
+---
+
+7. Education Level Filter
+- Majority employees have "Bachelor’s" and "Master’s Degrees"
+
+> Well-educated workforce — consider internal mobility, certifications, and leadership training programs.
+
+---
+
+ How to Use
+
+1. Clone the repository  
+2. Open `HR_Analytics_Dashboard.pbix` in Power BI Desktop  
+3. Review and interact with filters, visuals, and insights  
+
+---
+
+Contact
+
+Created by "Priyanka Lohar"  
+Front-End Developer | Aspiring Power BI Analyst   
+📫 Email: priyalohae129@gmail.com  
+
+
